@@ -24,3 +24,7 @@ that make the app so high quality.
 -  🗣 Effective Communication : Strong communication skills for clear and efficient collaboration.
 
 -  🔄 Dealing with http and Dio : Proficient in dealing with HTTP and Dio for network requests.
+
+
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RamaHamzaa)](https://github.com/RamaHamzaa/github-readme-stats)
